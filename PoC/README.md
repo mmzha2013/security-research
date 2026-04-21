@@ -4,7 +4,7 @@ Supporting artifacts for the security advisory in this repository.
 
 ## microsoft_playwright_mcp_0.0.47_file_exfil.mp4
 
-[▶ View video](https://github.com/mmzha2013/security-research/raw/main/PoC/microsoft_playwright_mcp_0.0.47_file_exfil.mp4)
+[▶ View video](https://github.com/mmzha2013/security-research/blob/main/PoC/microsoft_playwright_mcp_0.0.47_file_exfil.mp4)
 
 Demonstrates `/etc/passwd` exfiltration against `@playwright/mcp@0.0.47`
 from https://github.com/microsoft/playwright-mcp, running via the official
@@ -14,7 +14,7 @@ configuration follow the upstream documented procedure.
 
 ## cloudflare_playwright_mcp_0.0.5_file_exfil.mp4
 
-[▶ View video](https://github.com/mmzha2013/security-research/raw/main/PoC/cloudflare_playwright_mcp_0.0.5_file_exfil.mp4)
+[▶ View video](https://github.com/mmzha2013/security-research/blob/main/PoC/cloudflare_playwright_mcp_0.0.5_file_exfil.mp4)
 
 Demonstrates the same exfiltration primitive against `cloudflare/playwright-mcp`
 v0.0.5 from https://github.com/cloudflare/playwright-mcp. The recording
